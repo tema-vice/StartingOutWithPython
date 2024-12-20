@@ -1,0 +1,40 @@
+Ask: 5 
+For: 4 
+I: 7 10 
+I’ll: 8 
+I’m: 6 
+NO: 12 
+No: 9 
+The: 12 
+Without: 2 11 
+Yes: 1 
+You: 3 
+a: 2 11 
+after: 8 
+answer: 12 
+can: 3 
+can’t: 7 
+clearly: 12 
+count: 3 
+course: 1 
+don’t: 10 
+doubt: 2 11 
+is: 12 
+it: 3 
+later: 5 
+me: 5 
+my: 8 
+nap: 8 
+no: 11 
+not: 6 
+now: 7 
+of: 1 
+on: 3 
+right: 7 
+so: 10 
+sure: 4 6 
+tell: 7 8 
+think: 10 
+way: 9 
+yes: 2 
+you: 7 8 
